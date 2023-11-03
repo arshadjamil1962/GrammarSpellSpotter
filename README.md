@@ -6,9 +6,10 @@ Main focus of "DisplayGrammaticalDifferences" Code is to Highlight the differenc
 
 An API call is needed to get the Corrected spelling and Grammar.
 
-Open Demo [https://grammarspellspotter.onrender.com] (https://grammarspellspotter.onrender.com) to view it in your browser.
- 
+Open Demo https://grammarspellspotter.onrender.com to view it in your browser.
 
+Type-in in the provided text-area and application will higlight the differences.
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
